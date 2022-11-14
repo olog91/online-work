@@ -1,0 +1,577 @@
+/* header */
+li {
+    padding: 0;
+    
+}
+
+body {
+    padding-left: 120px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+a {
+    outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+  color: #000;
+  font-weight: 400; 
+}
+
+.logo {
+     margin-right: 60px;
+    height: 32px;
+    width: 93px;
+}
+
+.navigation {
+    display: flex;
+    padding: 0;
+    margin-top: 25px;
+    margin-bottom: 29px;
+}
+
+.home, .about, .career, .blog, .faq, .contact  {
+    margin-right: 40px;
+    font-family: Oswald;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.contact {
+    margin-right: 400px;
+    
+}
+
+.button-teamplate {
+    height: 52px;
+width: 233px;
+border-radius: 30px;
+background: #0057FF;  
+border: none;
+}
+
+.text-botton{
+font-family: 'Oswald';
+font-weight: 400;
+font-size: 14px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+
+/* body */
+
+.marketing {
+    display: flex;
+}
+
+.logo-text {
+margin-top: 170px;
+height: 132px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 66px;
+text-transform: uppercase;
+color: #000000;
+}
+
+.losung {
+height: 78px;
+left: 0%;
+right: 3.2%;
+top: 13px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #000000;
+}
+
+.smanta {
+height: 28px;
+left: 0%;
+right: 66.25%;
+top: 0px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-transform: uppercase;
+color: #000000;
+margin: 20px 10px 10px 20px;
+}
+
+.star {
+margin-left: 20px;
+    
+}
+
+.samanta-vidguc {
+    display: flex;
+}
+
+
+.button-section {
+    height: 52px;
+width: 176px;
+
+border-radius: 30px;
+height: 52px;
+
+background: #FFA332;
+border-radius: 30px;
+margin-top: 40px;
+border: none;
+}
+
+.btnget-started {
+font-family: 'Oswald';
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.girlwhislaptop {
+    position: absolute;
+    margin-left: 496px;
+    z-index: 1;
+}
+
+.topthree {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+
+.midlethree {
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 522px;
+}
+
+.littlethree {
+    position: absolute;
+    margin-top: 720px;
+    margin-left: 35px;
+}
+
+/* solution */
+
+.solution {
+    margin-top: 195px;
+}
+
+.event {
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 22px;
+letter-spacing: 0.5px;
+text-transform: uppercase;
+color: #0057FF;
+margin: 0;
+
+margin-left: 552px;
+
+}
+
+.sol-that {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #000000;
+margin: 0 400px;
+}
+
+.sol-thats {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #000000;
+margin: 0 350px;
+}
+
+.buisness {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #000000;
+margin: 0;
+margin-left: 366px;
+}
+
+.worktext {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #000000;
+margin: 0;
+margin-left: 254px;
+}
+
+.laptopthree {
+    position: absolute;
+    margin-left: -110px;
+}
+
+.more-about-us {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+text-transform: uppercase;
+color: #000000;
+margin-left: 557px;
+}
+
+.orangethree {
+position: absolute;
+margin-left: 1020px;
+margin-top: -135px;
+}
+
+/* form */
+
+.form {
+    display: flex;
+    margin-top: 200px;
+}
+
+.expiriens-and-inteligense {
+    margin-right: 120px;
+    margin-top: 200px;
+}
+
+.solo-that {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #000000;
+text-align: center;
+
+
+}
+
+.your-work {
+    text-align: center;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #000000;
+}
+
+.experiense {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #000000;
+margin-bottom: 40px;
+}
+
+
+.thefirstrule {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+color: #000000;
+}
+
+.support {
+    display: flex;
+}
+
+.supports {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.details {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+
+.customer {
+    margin-right: 90px;
+}
+
+.button-read {
+    height: 52px;
+width: 140px;
+border-radius: 30px;
+background: #0057FF;  
+border: none;
+margin-top: 16px;   
+
+}
+
+.form-send {
+    background: #FFFFFF;
+box-shadow: 0px 8px 28px rgba(83, 83, 83, 0.15);
+border-radius: 15px;
+align-items: center;
+width: 540px;
+height: 865px;
+}
+
+.piple {
+    border-radius: 15px 15px 0px 0px;
+    height: 200px;
+    display: block;
+    margin-bottom: 57px;
+}
+
+.input-name {
+    box-sizing: border-box;
+    height: 60px;
+background: #F8F8F8;
+border: 1px solid #E7E7E7;
+border-radius: 6px;
+margin-left: 40px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 60px;
+padding-left: 35px;
+margin-bottom: 32px;
+}
+
+.input-email {
+    box-sizing: border-box;
+    height: 60px;
+background: #F8F8F8;
+border: 1px solid #E7E7E7;
+border-radius: 6px;
+margin-left: 25px;
+padding-left: 46px;
+}
+
+.input-subject {
+    box-sizing: border-box;
+height: 60px;
+background: #F8F8F8;
+border: 1px solid #E7E7E7;
+border-radius: 6px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 60px;
+width: 460px;
+height: 60px;
+margin-left: 40px;
+padding-left: 26px;
+margin-bottom: 32px;
+}
+
+.textarea-subject {
+    box-sizing: border-box;
+height: 140px;
+background: #F8F8F8;
+border: 1px solid #E7E7E7;
+border-radius: 6px;
+width: 460px;
+text-align: start;
+margin-left: 40px;
+padding-left: 26px;
+margin-bottom: 32px;
+}
+
+.button-sent {
+    height: 52px;
+width: 460px;
+border-radius: 30px;
+background: #0057FF;  
+border: none;
+margin: 16px 40px;   
+}
+
+.laptopthree {
+    position: absolute;
+    margin-top: 123px;
+    padding-left: 60px;
+}
+
+
+.greenthree {
+    position: absolute;
+margin-top: 567px;
+margin-left: 400px;
+}
+
+/* trusted */
+
+.trusted {
+    margin-top: 245px;
+    display: flex;
+}
+
+.threepiple {
+    margin-top: 35px;
+    margin-right: 120px;
+}
+
+.laptopthree-down {
+    position: absolute;
+    margin-top: 548px;
+    margin-left: -50px;
+}
+
+.see-why {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.first-rule {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+margin-bottom: 50px;
+color: #000000;
+}
+
+.question {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+text-transform: uppercase;
+color: #000000;
+text-decoration: none;
+border: 1px solid #E7E7E7;
+}
+
+.question>li {
+display: flex;
+justify-content: space-between;
+padding: 30px 40px;
+}
+
+.question>li>img {
+    height: 18px;
+    padding-top: 18px;
+    align-items: center;
+}
+
+/* praice */
+
+.praice {
+    display: flex;
+}
+
+.marketing>h2 {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #000000;
+}
+
+.marketing>p {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+
+}
+
+.price-for-month {
+    background: #FFFFFF;
+box-shadow: 0px 10px 30px rgba(83, 83, 83, 0.15);
+border-radius: 10px;
+}
+
+.for-month>h2 {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+text-transform: uppercase;
+color: #000000;
+}
+
+.for-month>p {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-transform: uppercase;
+color: #000000;
+}
+
+.for-month>ul>li>p {
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 22px;
+text-transform: uppercase;
+color: #000000;
+}
